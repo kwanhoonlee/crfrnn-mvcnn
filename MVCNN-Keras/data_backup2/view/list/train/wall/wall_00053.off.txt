@@ -1,0 +1,14 @@
+0
+12
+./classes/wall/train/wall_00053.off/wall_00053.1.png
+./classes/wall/train/wall_00053.off/wall_00053.2.png
+./classes/wall/train/wall_00053.off/wall_00053.3.png
+./classes/wall/train/wall_00053.off/wall_00053.4.png
+./classes/wall/train/wall_00053.off/wall_00053.5.png
+./classes/wall/train/wall_00053.off/wall_00053.6.png
+./classes/wall/train/wall_00053.off/wall_00053.7.png
+./classes/wall/train/wall_00053.off/wall_00053.8.png
+./classes/wall/train/wall_00053.off/wall_00053.9.png
+./classes/wall/train/wall_00053.off/wall_00053.10.png
+./classes/wall/train/wall_00053.off/wall_00053.11.png
+./classes/wall/train/wall_00053.off/wall_00053.12.png

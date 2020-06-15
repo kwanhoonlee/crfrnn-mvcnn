@@ -1,0 +1,4 @@
+data/airplane/train/1.txt 0
+data/airplane/train/1.txt 0
+data/airplane/train/1.txt 1
+data/airplane/train/1.txt 1

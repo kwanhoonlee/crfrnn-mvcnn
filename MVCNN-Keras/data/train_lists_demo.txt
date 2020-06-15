@@ -1,0 +1,4 @@
+data/wall/train/1.txt 0
+data/wall/train/1.txt 0
+data/window/train/1.txt 1
+data/window/train/1.txt 1

@@ -1,0 +1,14 @@
+1
+12
+classes/window/train/window_00025.off/window_00025.12.png
+classes/window/train/window_00025.off/window_00025.12.png
+classes/window/train/window_00025.off/window_00025.12.png
+classes/window/train/window_00025.off/window_00025.12.png
+classes/window/train/window_00025.off/window_00025.12.png
+classes/window/train/window_00025.off/window_00025.12.png
+classes/window/train/window_00025.off/window_00025.12.png
+classes/window/train/window_00025.off/window_00025.12.png
+classes/window/train/window_00025.off/window_00025.12.png
+classes/window/train/window_00025.off/window_00025.12.png
+classes/window/train/window_00025.off/window_00025.12.png
+classes/window/train/window_00025.off/window_00025.12.png
