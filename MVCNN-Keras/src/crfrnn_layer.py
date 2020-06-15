@@ -24,8 +24,9 @@ SOFTWARE.
 
 import numpy as np
 import tensorflow as tf
-from keras.engine.topology import Layer
-
+from tensorflow.keras.layers import Layer
+# from keras.engine.topology import Layer
+# import src.cpp.high_dim_filter_loader
 import high_dim_filter_loader
 
 custom_module = high_dim_filter_loader.custom_module

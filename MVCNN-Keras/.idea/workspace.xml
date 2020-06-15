@@ -2,40 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97bb5c56-3309-4b41-a5c7-8dd070fb3528" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/data/airplane/test/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/test/airplane_0627_001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/test/airplane_0627_002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/test/airplane_0627_003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/test/airplane_0627_004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/test/airplane_0627_005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/test/airplane_0627_006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/test/airplane_0627_007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/test/airplane_0627_008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/test/airplane_0627_009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/test/airplane_0627_010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/test/airplane_0627_011.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/test/airplane_0627_012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/train/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/train/airplane_0001_001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/train/airplane_0001_002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/train/airplane_0001_003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/train/airplane_0001_004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/train/airplane_0001_005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/train/airplane_0001_006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/train/airplane_0001_007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/train/airplane_0001_008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/train/airplane_0001_009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/train/airplane_0001_010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/train/airplane_0001_011.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/airplane/train/airplane_0001_012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/train_lists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/train_lists_demo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train_lists_demo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/val_lists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/val_lists_demo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/val_lists_demo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/globals.py" beforeDir="false" afterPath="$PROJECT_DIR$/globals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inputs.py" beforeDir="false" afterPath="$PROJECT_DIR$/inputs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluate.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/predict.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,34 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/globals.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            <state relative-caret-position="371">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/train_lists_demo.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/predict.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+            <state relative-caret-position="238">
+              <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
               <folding>
                 <element signature="e#1#39#0" expanded="true" />
               </folding>
@@ -83,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inputs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6">
-              <caret line="99" column="22" lean-forward="true" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+            <state relative-caret-position="2922">
+              <caret line="106" column="36" selection-start-line="106" selection-start-column="21" selection-end-line="106" selection-end-column="36" />
               <folding>
                 <element signature="e#27#65#0" expanded="true" />
               </folding>
@@ -99,14 +55,72 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vp.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#70#108#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model.py">
+        <entry file="file://$PROJECT_DIR$/src/crfrnn_layer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="159" lean-forward="true" selection-start-line="159" selection-end-line="159" />
+            <state relative-caret-position="278">
+              <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+              <folding>
+                <element signature="e#1083#1101#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/evaluate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+              <folding>
+                <element signature="e#27#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="136" column="36" lean-forward="true" selection-start-line="136" selection-start-column="36" selection-end-line="136" selection-end-column="36" />
+              <folding>
+                <element signature="e#27#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/high_dim_filter_loader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#1083#1092#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/crfrnn_model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1841">
+              <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+              <folding>
+                <element signature="e#1083#1113#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,13 +129,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>image_dpath</find>
-      <find>sc</find>
-      <find>image_dept</find>
-      <find>IMAGE_DEPTH</find>
-      <find>division</find>
-      <find>multi-gpu</find>
-      <find>gpu</find>
       <find>use_cudnn_on_gpu=true</find>
       <find>train_steps</find>
       <find>_class</find>
@@ -141,23 +148,28 @@
       <find>py_func</find>
       <find>filename</find>
       <find>num</find>
-      <find>tf</find>
       <find>@tf</find>
       <find>items</find>
       <find>set_seedset_seedset_seedset_seedset_seed</find>
+      <find>tf</find>
+      <find>xavier</find>
+      <find>const_init</find>
+      <find>l2_reg</find>
+      <find>layer</find>
+      <find>keras</find>
+      <find>evalu</find>
+      <find>cnn1</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/view/list/train/wall/wall_00005.off.txt" />
-        <option value="$PROJECT_DIR$/data/view/list/train/wall/wall_00006.off.txt" />
         <option value="$PROJECT_DIR$/data/view/list/train/wall/wall_00007.off.txt" />
         <option value="$PROJECT_DIR$/data/view/list/train/wall/wall_00008.off.txt" />
         <option value="$PROJECT_DIR$/data/view/list/train/wall/wall_00009.off.txt" />
@@ -204,18 +216,20 @@
         <option value="$PROJECT_DIR$/data_test/wall/train/1.txt" />
         <option value="$PROJECT_DIR$/data_test/window/train/1.txt" />
         <option value="$PROJECT_DIR$/inputs.py" />
-        <option value="$PROJECT_DIR$/train.py" />
         <option value="$PROJECT_DIR$/model.py" />
+        <option value="$PROJECT_DIR$/src/crfrnn_layer.py" />
         <option value="$PROJECT_DIR$/globals.py" />
+        <option value="$PROJECT_DIR$/src/model.py" />
+        <option value="$PROJECT_DIR$/train.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="960" />
     <option name="y" value="23" />
-    <option name="width" value="960" />
+    <option name="width" value="1920" />
     <option name="height" value="1057" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -229,6 +243,17 @@
               <item name="MVCNN-Keras" type="b2602c69:ProjectViewProjectNode" />
               <item name="MVCNN-Keras" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MVCNN-Keras" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MVCNN-Keras" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MVCNN-Keras" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MVCNN-Keras" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cpp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -240,6 +265,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data_test/window/train" />
       <recent name="$PROJECT_DIR$/data_test/wall/train" />
@@ -302,7 +330,7 @@
     <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1263823" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17693523" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -322,10 +350,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/view/list/train/wall/wall_00009.off.txt" />
-    <entry file="file://$PROJECT_DIR$/data/view/list/train/wall/wall_00010.off.txt" />
-    <entry file="file://$PROJECT_DIR$/data/view/list/train/wall/wall_00011.off.txt" />
-    <entry file="file://$PROJECT_DIR$/data/view/list/train/wall/wall_00012.off.txt" />
     <entry file="file://$PROJECT_DIR$/data/view/list/train/wall/wall_00013.off.txt" />
     <entry file="file://$PROJECT_DIR$/data/view/list/train/wall/wall_00014.off.txt" />
     <entry file="file://$PROJECT_DIR$/data/view/list/train/wall/wall_00015.off.txt" />
@@ -365,53 +389,103 @@
     <entry file="file://$PROJECT_DIR$/data_test/train_lists_demo.txt" />
     <entry file="file://$PROJECT_DIR$/data_test/wall/train/1.txt" />
     <entry file="file://$PROJECT_DIR$/data_test/window/train/1.txt" />
-    <entry file="file://$PROJECT_DIR$/predict.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vp.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/train_lists_demo.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
-          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inputs.py">
+    <entry file="file://$PROJECT_DIR$/predict.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/window/train/1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6">
-          <caret line="99" column="22" lean-forward="true" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+        <state relative-caret-position="219">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#70#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/high_dim_filter_loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#1083#1092#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crfrnn_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1841">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+          <folding>
+            <element signature="e#1083#1113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crfrnn_layer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+          <folding>
+            <element signature="e#1083#1101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evaluate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
           <folding>
             <element signature="e#27#65#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/window/train/1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model.py">
+    <entry file="file://$PROJECT_DIR$/inputs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="159" lean-forward="true" selection-start-line="159" selection-end-line="159" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+        <state relative-caret-position="2922">
+          <caret line="106" column="36" selection-start-line="106" selection-start-column="21" selection-end-line="106" selection-end-column="36" />
           <folding>
-            <element signature="e#1#39#0" expanded="true" />
+            <element signature="e#27#65#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/globals.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        <state relative-caret-position="371">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="136" column="36" lean-forward="true" selection-start-line="136" selection-start-column="36" selection-end-line="136" selection-end-column="36" />
+          <folding>
+            <element signature="e#27#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <folding>
+            <element signature="e#1#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

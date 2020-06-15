@@ -5,7 +5,7 @@ from __future__ import division
 from __future__ import print_function
 
 import inputs
-import model as m
+from src import model as m
 import tensorflow as tf
 import globals as _g
 

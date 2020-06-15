@@ -25,7 +25,7 @@ IMAGE_DEPTH = 255
 
 NUM_TRAIN_EPOCH = 2
 
-TRAIN_BATCH_SIZE = 20
+TRAIN_BATCH_SIZE = 1
 
 # TRAIN_LIST = 'data/train_lists_demo.txt'
 TRAIN_LIST = 'data/train_lists_demo.txt'
