@@ -57,4 +57,4 @@ if __name__ == '__main__':
     #           validation_data=val_dataset, validation_steps=val_steps)
     # model.fit(train_dataset, epochs=_g.NUM_TRAIN_EPOCH, steps_per_epoch=train_steps)
     # save model's wights
-    # origin_model.save_weights('model/latest.weights.h5', save_format='h5')
+    model1.save_weights('model/latest.weights.h5', save_format='h5')

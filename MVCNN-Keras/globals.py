@@ -12,7 +12,7 @@ import tensorflow as tf
 # -------------------Constant Variable--------------------------
 SEED = 1
 
-NUM_CLASSES = 2
+NUM_CLASSES = 3
 
 NUM_VIEWS = 12
 
@@ -31,7 +31,7 @@ TRAIN_BATCH_SIZE = 1
 TRAIN_LIST = 'data/train_lists_demo.txt'
 
 # VAL_LIST = 'data/train_lists_demo.txt'
-VAL_LIST = 'data/val_lists_demo.txt'
+VAL_LIST = 'data/test_lists_demo.txt'
 
 # because I haven't test data, so I use validation data to for demo
 TEST_LIST = VAL_LIST
