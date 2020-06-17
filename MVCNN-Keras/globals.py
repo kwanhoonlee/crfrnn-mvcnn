@@ -31,10 +31,10 @@ TRAIN_BATCH_SIZE = 1
 TRAIN_LIST = 'data/train_lists_demo.txt'
 
 # VAL_LIST = 'data/train_lists_demo.txt'
-VAL_LIST = 'data/test_lists_demo.txt'
+VAL_LIST = 'data/val_lists_demo.txt'
 
 # because I haven't test data, so I use validation data to for demo
-TEST_LIST = VAL_LIST
+TEST_LIST = 'data/test_lists_demo.txt'
 
 # --------------------------------------------------------------
 

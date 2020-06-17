@@ -2,37 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97bb5c56-3309-4b41-a5c7-8dd070fb3528" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/train_with_crf.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/test/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/test/airplane_0627_001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/test/airplane_0627_002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/test/airplane_0627_003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/test/airplane_0627_004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/test/airplane_0627_005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/test/airplane_0627_006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/test/airplane_0627_007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/test/airplane_0627_008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/test/airplane_0627_009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/test/airplane_0627_010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/test/airplane_0627_011.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/test/airplane_0627_012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/train/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/train/airplane_0001_001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/train/airplane_0001_002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/train/airplane_0001_003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/train/airplane_0001_004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/train/airplane_0001_005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/train/airplane_0001_006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/train/airplane_0001_007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/train/airplane_0001_008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/train/airplane_0001_009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/train/airplane_0001_010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/train/airplane_0001_011.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/airplane/train/airplane_0001_012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/train_lists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/train_lists_demo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/val_lists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data2/val_lists_demo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/val_lists_demo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/val_lists_demo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globals.py" beforeDir="false" afterPath="$PROJECT_DIR$/globals.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,17 +18,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/globals.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="428">
+              <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/train_with_crf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="59" column="46" selection-start-line="59" selection-start-column="46" selection-end-line="59" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/train.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+              <caret line="59" column="49" selection-start-line="59" selection-start-column="49" selection-end-line="59" selection-end-column="49" />
               <folding>
                 <element signature="e#1#39#0" expanded="true" />
               </folding>
@@ -73,11 +55,6 @@
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/window/train/1.txt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -119,8 +96,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="218" selection-start-line="218" selection-end-line="218" />
+            <state relative-caret-position="2470">
+              <caret line="218" lean-forward="true" selection-start-line="218" selection-end-line="218" />
               <folding>
                 <element signature="e#27#65#0" expanded="true" />
               </folding>
@@ -197,7 +174,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/view/list/train/wall/wall_00007.off.txt" />
         <option value="$PROJECT_DIR$/data/view/list/train/wall/wall_00008.off.txt" />
         <option value="$PROJECT_DIR$/data/view/list/train/wall/wall_00009.off.txt" />
         <option value="$PROJECT_DIR$/data/view/list/train/wall/wall_00010.off.txt" />
@@ -248,6 +224,7 @@
         <option value="$PROJECT_DIR$/src/model.py" />
         <option value="$PROJECT_DIR$/globals.py" />
         <option value="$PROJECT_DIR$/train.py" />
+        <option value="$PROJECT_DIR$/train_with_crf.py" />
       </list>
     </option>
   </component>
@@ -292,12 +269,13 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/data_test/window/train" />
       <recent name="$PROJECT_DIR$/data_test/wall/train" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -377,7 +355,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/view/list/train/wall/wall_00013.off.txt" />
     <entry file="file://$PROJECT_DIR$/data/view/list/train/wall/wall_00014.off.txt" />
     <entry file="file://$PROJECT_DIR$/data/view/list/train/wall/wall_00015.off.txt" />
     <entry file="file://$PROJECT_DIR$/data/view/list/train/wall/wall_00016.off.txt" />
@@ -469,16 +446,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="218" selection-start-line="218" selection-end-line="218" />
-          <folding>
-            <element signature="e#27#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/inputs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-298">
@@ -486,13 +453,6 @@
           <folding>
             <element signature="e#27#65#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/globals.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
@@ -506,13 +466,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/globals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2470">
+          <caret line="218" lean-forward="true" selection-start-line="218" selection-end-line="218" />
+          <folding>
+            <element signature="e#27#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/train.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+          <caret line="59" column="49" selection-start-line="59" selection-start-column="49" selection-end-line="59" selection-end-column="49" />
           <folding>
             <element signature="e#1#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_with_crf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="59" column="46" selection-start-line="59" selection-start-column="46" selection-end-line="59" selection-end-column="46" />
         </state>
       </provider>
     </entry>

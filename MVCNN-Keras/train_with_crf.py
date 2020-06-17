@@ -39,7 +39,7 @@ if __name__ == '__main__':
     sys.path.insert(1, './src')
     import model
     # model1 = model.inference_multi_view_without_crfrnn()
-    model1 = model.inference_multi_view_without_crfrnn()
+    model1 = model.inference_multi_view_with_crfrnn()
     model1.summary()
 
     # origin_model = model
@@ -57,4 +57,4 @@ if __name__ == '__main__':
     #           validation_data=val_dataset, validation_steps=val_steps)
     # model.fit(train_dataset, epochs=_g.NUM_TRAIN_EPOCH, steps_per_epoch=train_steps)
     # save model's wights
-    model1.save_weights('model/latest_without_crf.weights.h5', save_format='h5')
+    model1.save_weights('model/latest_with_crf.weights.h5', save_format='h5')
