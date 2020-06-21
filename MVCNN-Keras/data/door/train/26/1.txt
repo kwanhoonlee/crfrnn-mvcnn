@@ -1,0 +1,14 @@
+0
+12
+data/door/train/26/door_00026.1.png
+data/door/train/26/door_00026.2.png
+data/door/train/26/door_00026.3.png
+data/door/train/26/door_00026.4.png
+data/door/train/26/door_00026.5.png
+data/door/train/26/door_00026.6.png
+data/door/train/26/door_00026.7.png
+data/door/train/26/door_00026.8.png
+data/door/train/26/door_00026.9.png
+data/door/train/26/door_00026.10.png
+data/door/train/26/door_00026.11.png
+data/door/train/26/door_00026.12.png

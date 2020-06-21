@@ -12,4 +12,3 @@ data/door/train/13/door_00013.9.png
 data/door/train/13/door_00013.10.png
 data/door/train/13/door_00013.11.png
 data/door/train/13/door_00013.12.png
-

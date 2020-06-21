@@ -5,7 +5,7 @@ from __future__ import division
 from __future__ import print_function
 
 import inputs
-from src import model as m
+import model as m
 import numpy as np
 import globals as _g
 

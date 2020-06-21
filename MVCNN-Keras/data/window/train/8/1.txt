@@ -12,3 +12,4 @@ data/window/train/8/window_00008.9.png
 data/window/train/8/window_00008.10.png
 data/window/train/8/window_00008.11.png
 data/window/train/8/window_00008.12.png
+

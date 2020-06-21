@@ -1,0 +1,14 @@
+0
+12
+data/window/train/34/window_00034.1.png
+data/window/train/34/window_00034.2.png
+data/window/train/34/window_00034.3.png
+data/window/train/34/window_00034.4.png
+data/window/train/34/window_00034.5.png
+data/window/train/34/window_00034.6.png
+data/window/train/34/window_00034.7.png
+data/window/train/34/window_00034.8.png
+data/window/train/34/window_00034.9.png
+data/window/train/34/window_00034.10.png
+data/window/train/34/window_00034.11.png
+data/window/train/34/window_00034.12.png

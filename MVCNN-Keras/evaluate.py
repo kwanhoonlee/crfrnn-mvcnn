@@ -5,12 +5,17 @@ from __future__ import division
 from __future__ import print_function
 
 import inputs
-from src import model as m
+#import model as m
+import sys
+sys.path.insert(1, './src')
+import model as m
 import tensorflow as tf
 import globals as _g
 
-_g.set_seed()
+#_g.set_seed()
 
+import os 
+os.environ['TF_FORCE_GPU_ALLOW_GROWTH'] = 'true'
 
 if __name__ == '__main__':
     # prepare test dataset

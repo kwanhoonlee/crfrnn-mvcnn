@@ -1,0 +1,14 @@
+0
+12
+data/door/test/69/door_00069.1.png
+data/door/test/69/door_00069.2.png
+data/door/test/69/door_00069.3.png
+data/door/test/69/door_00069.4.png
+data/door/test/69/door_00069.5.png
+data/door/test/69/door_00069.6.png
+data/door/test/69/door_00069.7.png
+data/door/test/69/door_00069.8.png
+data/door/test/69/door_00069.9.png
+data/door/test/69/door_00069.10.png
+data/door/test/69/door_00069.11.png
+data/door/test/69/door_00069.12.png

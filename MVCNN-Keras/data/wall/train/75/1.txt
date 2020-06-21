@@ -1,0 +1,14 @@
+0
+12
+data/wall/train/75/wall_00075.1.png
+data/wall/train/75/wall_00075.2.png
+data/wall/train/75/wall_00075.3.png
+data/wall/train/75/wall_00075.4.png
+data/wall/train/75/wall_00075.5.png
+data/wall/train/75/wall_00075.6.png
+data/wall/train/75/wall_00075.7.png
+data/wall/train/75/wall_00075.8.png
+data/wall/train/75/wall_00075.9.png
+data/wall/train/75/wall_00075.10.png
+data/wall/train/75/wall_00075.11.png
+data/wall/train/75/wall_00075.12.png

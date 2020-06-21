@@ -1,0 +1,14 @@
+0
+12
+data/window/test/47/window_00047.1.png
+data/window/test/47/window_00047.2.png
+data/window/test/47/window_00047.3.png
+data/window/test/47/window_00047.4.png
+data/window/test/47/window_00047.5.png
+data/window/test/47/window_00047.6.png
+data/window/test/47/window_00047.7.png
+data/window/test/47/window_00047.8.png
+data/window/test/47/window_00047.9.png
+data/window/test/47/window_00047.10.png
+data/window/test/47/window_00047.11.png
+data/window/test/47/window_00047.12.png
