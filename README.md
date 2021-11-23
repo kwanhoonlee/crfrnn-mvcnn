@@ -17,7 +17,7 @@ In order to maximize the use of BIM, all data related to individual elements in 
 * nvidia-ml-py3(for python 3.5+)
 * make for CRF-RNN </br>
 
-# Building CRF-RNN
+# Build the CRF-RNN
 ```bash
 cd MVCNN_with_CRFRNN/src/cpp
 make
