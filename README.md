@@ -11,9 +11,13 @@ Used the source code [MVCNN-Keras](https://github.com/Mannix1994/MVCNN-Keras) an
 * nvidia-ml-py3(for python 3.5+)
 * make for CRF-RNN </br>
 
+# Building CRF-RNN
+```bash
+cd MVCNN_with_CRFRNN/src/cpp
+make
+```
 # Train
 ```bash
-cd MVCNN_with_CRFRNN
 # for training dataset using only MVCNN
 python3 train.py
 # for training dataset using only MVCNN with CRF-RNN
